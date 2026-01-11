@@ -7,7 +7,7 @@ import seaborn as sns
 df = pd.read_csv("C:\VSCodeCProjects\hello\Data\sales_data_sample.csv",encoding="latin1")
 
 df.columns = df.columns.str.lower().str.strip()
-c
+
 print(df.isnull().sum())
 df.fillna(0,inplace=True)
 
