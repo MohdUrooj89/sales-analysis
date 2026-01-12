@@ -41,13 +41,14 @@
 
 --The script generates five key analytical plots :
 
- * Sales Over Year: A bar chart showing total revenue growth across different years.
+ * Sales Over Year : A bar chart showing total revenue growth across different years.
 
- * Total Sale By Country: A breakdown of the top 5 performing countries.
+ * Total Sale By Country : A breakdown of the top 5 performing countries.
 
- * Monthly Sale Comparison: A multi-line chart comparing seasonal trends for 2003, 2004, and 2005.
+ * Monthly Sale Comparison : A multi-line chart comparing seasonal trends for 2003, 2004, and 2005.
 
- * Order Status Distribution: A pie chart showing the percentage of orders (Shipped, Cancelled, On Hold, etc.).
+ * Order Status Distribution : A pie chart showing the percentage of orders (Shipped, Cancelled, On Hold, etc.).
 
- * Product Line & Deal Size: A grouped count plot analyzing which product categories drive small, medium, or large deals.
+ * Product Line & Deal Size : A grouped count plot analyzing which product categories drive small, medium, or large deals.
+
 
